@@ -8,3 +8,4 @@ nltk
 spacy
 bertopic
 wordcloud
+networkx
