@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="488.36182"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-229.345825 -233.000000 488.361816 561.000000" height="561.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path stroke-linecap="round" fill="none"
+              class="id_socialism id_alltheleft"
+              d="M -74.082481,94.445961 A 50.327585,50.327585 0,0 1,-47.526005,73.249168"
+              stroke="#817dff" stroke-width="6.461039" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_socialism id_Libertarian"
+              d="M -81.706703,93.343880 A 258.880096,258.880096 0,0 1,55.073898,-157.992294"
+              stroke="#c083c6" stroke-width="2.3181818" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_socialism id_Communist"
+              d="M -65.050095,109.804466 A 113.297941,113.297941 0,0 1,21.011118,179.620178"
+              stroke="#817dff" stroke-width="2.3181818" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_socialism id_SocialDemocracy"
+              d="M -79.280495,93.258629 A 131.112640,131.112640 0,0 1,-1.079863,-13.511291"
+              stroke="#817dff" stroke-width="1.7532468" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_socialism id_DemocraticSocialism"
+              d="M -83.025894,93.557716 A 83.558359,83.558359 0,0 1,-57.508797,23.296556"
+              stroke="#817dff" stroke-width="2.3181818" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_socialism id_democrats"
+              d="M -89.442932,96.613701 A 215.248583,215.248583 0,0 1,-106.951683,-136.415176"
+              stroke="#817dff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_socialism id_RadicalFeminism"
+              d="M -74.196426,122.087769 A 174.180850,174.180850 0,0 1,-111.783630,302.477631"
+              stroke="#817dff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_democrats id_alltheleft"
+              d="M -87.588203,-139.984329 A 191.456978,191.456978 0,0 1,-28.185633,56.284962"
+              stroke="#817dff" stroke-width="1.7532468" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_democrats id_progressive"
+              d="M -114.270752,-148.097672 A 62.679949,62.679949 0,0 1,-158.787552,-169.128555"
+              stroke="#817dff" stroke-width="5.896104" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_democrats id_Liberal"
+              d="M -106.605019,-162.442413 A 57.088277,57.088277 0,0 1,-106.404877,-204.791122"
+              stroke="#817dff" stroke-width="7.9675326" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_democrats id_Libertarian"
+              d="M -87.666710,-158.772339 A 140.454554,140.454554 0,0 1,55.359386,-171.804062"
+              stroke="#c083c6" stroke-width="2.3181818" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_democrats id_DemocraticSocialism"
+              d="M -87.496208,-140.101013 A 143.241381,143.241381 0,0 1,-41.679932,-0.444204"
+              stroke="#817dff" stroke-width="1.7532468" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_DemocraticSocialism id_alltheleft"
+              d="M -35.926243,25.339586 A 48.367193,48.367193 0,0 1,-28.876696,56.081440"
+              stroke="#817dff" stroke-width="8.532468" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_DemocraticSocialism id_SocialDemocracy"
+              d="M -37.851261,1.237959 A 56.016462,56.016462 0,0 1,-2.001503,-18.709841"
+              stroke="#817dff" stroke-width="7.590909" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_DemocraticSocialism id_Capitalism"
+              d="M -35.268349,3.256294 A 163.152930,163.152930 0,0 1,132.288239,-30.794344"
+              stroke="#c083c6" stroke-width="1.7532468" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_DemocraticSocialism id_progressive"
+              d="M -59.497799,8.017973 A 191.823087,191.823087 0,0 1,-168.048065,-166.475662"
+              stroke="#817dff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_DemocraticSocialism id_conservatives"
+              d="M -43.016014,-0.754755 A 235.354630,235.354630 0,0 1,140.931686,-181.467682"
+              stroke="#c083c6" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_SocialDemocracy id_alltheleft"
+              d="M 14.195103,-3.735989 A 83.587948,83.587948 0,0 1,-19.927820,62.812965"
+              stroke="#817dff" stroke-width="4.766234" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_SocialDemocracy id_progressive"
+              d="M -1.879144,-20.600317 A 202.437418,202.437418 0,0 1,-163.909088,-166.853760"
+              stroke="#817dff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_SocialDemocracy id_Libertarian"
+              d="M 9.692353,-33.319298 A 130.119026,130.119026 0,0 1,56.332550,-155.890762"
+              stroke="#c083c6" stroke-width="1.7532468" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_SocialDemocracy id_feminisms"
+              d="M 25.572634,-10.509509 A 284.395410,284.395410 0,0 1,142.196991,284.051483"
+              stroke="#817dff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_SocialDemocracy id_Capitalism"
+              d="M 25.178240,-27.443380 A 111.060214,111.060214 0,0 1,133.168640,-32.558838"
+              stroke="#c083c6" stroke-width="2.3181818" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_SocialDemocracy id_Liberal"
+              d="M -0.479402,-25.272001 A 190.398781,190.398781 0,0 1,-100.372749,-202.897797"
+              stroke="#817dff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_progressive id_Liberal"
+              d="M -159.430481,-194.209854 A 64.509535,64.509535 0,0 1,-113.986954,-218.401367"
+              stroke="#817dff" stroke-width="12.863636" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_progressive id_alltheleft"
+              d="M -153.945526,-174.686752 A 238.083181,238.083181 0,0 1,-30.948370,55.678749"
+              stroke="#817dff" stroke-width="2.3181818" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_progressive id_Libertarian"
+              d="M -154.419632,-189.095398 A 197.049031,197.049031 0,0 1,56.834015,-174.016235"
+              stroke="#c083c6" stroke-width="2.3181818" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_alltheleft id_Communist"
+              d="M -19.988827,78.423203 A 113.707627,113.707627 0,0 1,27.639532,179.033264"
+              stroke="#817dff" stroke-width="4.766234" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_alltheleft id_Capitalism"
+              d="M -25.826843,57.270416 A 169.011440,169.011440 0,0 1,131.209641,-26.618183"
+              stroke="#c083c6" stroke-width="2.883117" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_alltheleft id_RadicalFeminism"
+              d="M -29.004128,85.088234 A 215.346315,215.346315 0,0 1,-110.285141,304.308105"
+              stroke="#817dff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_alltheleft id_Liberal"
+              d="M -43.925308,60.542816 A 246.591355,246.591355 0,0 1,-104.663719,-203.945953"
+              stroke="#817dff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_alltheleft id_republicans"
+              d="M -30.688463,55.712811 A 261.634816,261.634816 0,0 1,167.437180,-155.310425"
+              stroke="#c083c6" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Liberal id_conservatives"
+              d="M -85.666145,-224.710007 A 214.143617,214.143617 0,0 1,144.659225,-194.053101"
+              stroke="#c083c6" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Liberal id_republicans"
+              d="M -85.202644,-223.725082 A 239.466594,239.466594 0,0 1,171.907303,-169.296310"
+              stroke="#c083c6" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Liberal id_Libertarian"
+              d="M -84.601578,-222.048035 A 146.478520,146.478520 0,0 1,59.202618,-176.371323"
+              stroke="#c083c6" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_feminisms id_Communist"
+              d="M 123.826561,296.197357 A 128.396919,128.396919 0,0 1,29.157511,208.471832"
+              stroke="#817dff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Communist id_conservatives"
+              d="M 21.335812,179.519501 A 333.001772,333.001772 0,0 1,143.504074,-175.236847"
+              stroke="#c083c6" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Communist id_republicans"
+              d="M 22.606216,179.200989 A 321.189537,321.189537 0,0 1,169.208694,-150.705933"
+              stroke="#c083c6" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Communist id_Capitalism"
+              d="M 24.054871,178.977448 A 208.224377,208.224377 0,0 1,132.681137,-18.334000"
+              stroke="#c083c6" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Communist id_anarchocapitalism"
+              d="M 34.602242,181.886215 A 121.134194,121.134194 0,0 1,147.731491,140.995026"
+              stroke="#c083c6" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Communist id_RadicalFeminism"
+              d="M 21.206772,208.233566 A 158.383541,158.383541 0,0 1,-107.653229,311.662964"
+              stroke="#817dff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Libertarian id_republicans"
+              d="M 81.627983,-171.931274 A 94.814856,94.814856 0,0 1,169.921448,-167.033310"
+              stroke="#ff8a8e" stroke-width="3.6363637" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Libertarian id_conservatives"
+              d="M 79.396606,-174.961777 A 74.426044,74.426044 0,0 1,141.511841,-188.714813"
+              stroke="#ff8a8e" stroke-width="5.896104" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Libertarian id_Capitalism"
+              d="M 81.858177,-157.743561 A 133.116590,133.116590 0,0 1,147.318924,-39.946293"
+              stroke="#ff8a8e" stroke-width="1.7532468" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_conservatives id_republicans"
+              d="M 169.692368,-178.452545 A 30.652344,30.652344 0,0 1,176.230408,-172.111313"
+              stroke="#ff8a8e" stroke-width="30.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_conservatives id_Capitalism"
+              d="M 163.266861,-170.961990 A 132.688225,132.688225 0,0 1,155.167206,-36.959724"
+              stroke="#ff8a8e" stroke-width="2.883117" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Capitalism id_republicans"
+              d="M 141.481491,-39.258484 A 115.086932,115.086932 0,0 1,170.941452,-148.332382"
+              stroke="#ff8a8e" stroke-width="2.883117" stroke-opacity="1.0"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#817dff" r="13.8" cx="-79.96858"
+                class="id_socialism" cy="108.242836" stroke="#5a57b2"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#817dff" r="13.8" cx="-99.32142"
+                class="id_democrats" cy="-149.32947" stroke="#5a57b2"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#817dff" r="13.8" cx="-45.7404"
+                class="id_DemocraticSocialism" cy="13.995761" stroke="#5a57b2"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#817dff" r="13.8" cx="12.998482"
+                class="id_SocialDemocracy" cy="-18.688183" stroke="#5a57b2"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#817dff" r="13.8" cx="-167.32999"
+                class="id_progressive" cy="-181.45847" stroke="#5a57b2"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#817dff" r="13.8" cx="-32.767567"
+                class="id_alltheleft" cy="70.56802" stroke="#5a57b2"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#817dff" r="13.8" cx="-98.997665"
+                class="id_Liberal" cy="-217.83464" stroke="#5a57b2"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#817dff" r="13.8" cx="138.62946"
+                class="id_feminisms" cy="298.62106" stroke="#5a57b2"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#817dff" r="13.8" cx="25.615385"
+                class="id_Communist" cy="193.89606" stroke="#5a57b2"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#817dff" r="13.8" cx="-122.60499"
+                class="id_RadicalFeminism" cy="312.86505" stroke="#5a57b2"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#ff8a8e" r="13.8" cx="68.52877"
+                class="id_Libertarian" cy="-164.62302" stroke="#b26063"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#ff8a8e" r="13.8" cx="155.72821"
+                class="id_conservatives" cy="-183.92998" stroke="#b26063"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#ff8a8e" r="13.8" cx="146.12146"
+                class="id_Capitalism" cy="-24.994165" stroke="#b26063"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#ff8a8e" r="13.8" cx="182.13194"
+                class="id_republicans" cy="-158.32103" stroke="#b26063"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#ff8a8e" r="13.8" cx="162.32024"
+                class="id_anarchocapitalism" cy="144.48334" stroke="#b26063"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="24" x="-79.96858" y="112.754555" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_socialism">
+            socialism
+        </text>
+        <text font-size="24" x="-99.32142" y="-144.81775" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_democrats">
+            democrats
+        </text>
+        <text font-size="24" x="-45.7404" y="18.579746" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_DemocraticSocialism">
+            DemocraticSocialism
+        </text>
+        <text font-size="24" x="12.998482" y="-12.934277" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_SocialDemocracy">
+            SocialDemocracy
+        </text>
+        <text font-size="24" x="-167.32999" y="-175.77682" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_progressive">
+            progressive
+        </text>
+        <text font-size="24" x="-32.767567" y="75.09927" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_alltheleft">
+            alltheleft
+        </text>
+        <text font-size="24" x="-98.997665" y="-213.32292" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_Liberal">
+            Liberal
+        </text>
+        <text font-size="24" x="138.62946" y="303.1523" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_feminisms">
+            feminisms
+        </text>
+        <text font-size="24" x="25.615385" y="198.48004" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_Communist">
+            Communist
+        </text>
+        <text font-size="24" x="-122.60499" y="317.37677" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_RadicalFeminism">
+            RadicalFeminism
+        </text>
+        <text font-size="24" x="68.52877" y="-160.1113" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_Libertarian">
+            Libertarian
+        </text>
+        <text font-size="24" x="155.72821" y="-179.41826" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_conservatives">
+            conservatives
+        </text>
+        <text font-size="24" x="146.12146" y="-19.24026" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_Capitalism">
+            Capitalism
+        </text>
+        <text font-size="24" x="182.13194" y="-152.63939" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_republicans">
+            republicans
+        </text>
+        <text font-size="24" x="162.32024" y="150.16498" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_anarchocapitalism">
+            anarchocapitalism
+        </text>
+    </g>
+</svg>

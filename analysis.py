@@ -1,10 +1,13 @@
-import pandas as pd
 from collections import Counter
 from math import log2
+from pathlib import Path
+from pretty_print import format_prop, show_list, show_posts
+import itertools
+import matplotlib.pyplot as plt
+import networkx as nx
 import nltk
 import numpy as np
-from pretty_print import format_prop, show_list, show_posts
-import matplotlib.pyplot as plt
+import pandas as pd
 
 def data_exploration(all_posts):
     liberal_posts = all_posts[all_posts.political_lean == 'Liberal']
@@ -140,9 +143,42 @@ def extract_tokens(text: str, lemmatizer):
     lemmatized_tokens = [lemmatizer.lemmatize(t) for t in tokens if len(t) > 1]
     return lemmatized_tokens
 
+def data_cleaning(posts):
+    # remove urls
+    URL_REGEX = r'https?://\S+'
+    total_count = posts.shape[0]
+    url_in_title = posts.title.str.contains(URL_REGEX, regex=True)
+    url_in_selftext = posts.text.str.contains(URL_REGEX, regex=True)
+    total_with_urls = (url_in_title | url_in_selftext).sum()
+    print(f"{total_with_urls} posts with urls ({100*total_with_urls/total_count:.2f} %)")
+    posts.title = posts.title.replace(URL_REGEX, '', regex=True)
+    posts.text = posts.text.replace(URL_REGEX, '', regex=True)
+    # normalize titles
+    posts.title = posts.title.map(lambda p: p.strip().lower())
+
+def build_network(posts):
+    shared_posts = posts.groupby('title').filter(lambda g: len(g) > 1).groupby('title')
+
+    graph = nx.Graph()
+    graph.add_nodes_from(
+        (item.subreddit, dict(political_lean=item.political_lean))
+        for item in posts[['subreddit', 'political_lean']].itertuples()
+    )
+
+    edges = Counter()
+    for group_name, group in shared_posts:
+        shared_subs = group['subreddit']
+        for subs in itertools.combinations(shared_subs, 2):
+            key = tuple(sorted(subs))
+            edges[key] += 1
+
+    graph.add_edges_from((n1, n2, {'weight': w}) for (n1, n2), w in edges.items())
+    print("Network graph computed.")
+    return graph
+
 
 if __name__ == '__main__':
-    all_posts = pd.read_csv('data/reddit_posts.csv').rename(
+    all_posts = pd.read_csv(Path(__file__).parent / 'data/reddit_posts.csv').rename(
         columns={
             'Title': 'title',
             'Political Lean': 'political_lean',
@@ -155,5 +191,8 @@ if __name__ == '__main__':
             'Date Created': 'date_created',
         }
     )
+    data_cleaning(all_posts)
+    network = build_network(all_posts)
+    nx.write_gexf(network, 'duplicate_posts_network.gexf')
     data_exploration(all_posts)
     words_analysis(all_posts)
