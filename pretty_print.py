@@ -57,7 +57,7 @@ def show_posts(posts, indent=1):
 
 def _show_posts_iter(posts):
     for post_data in posts.itertuples():
-        has_url = not pd.isna(post_data.url)
+        has_url = False
         yield "┏" + "━" * 8 + "┯" + "━" * 69 + "┓"
         yield f"┃        │ r/{fix_length(post_data.subreddit, 65)} ┃"
         title_lines = textwrap.wrap(post_data.title, width=67)
