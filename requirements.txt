@@ -1,0 +1,11 @@
+pandas
+seaborn
+matplotlib
+numpy
+jupyter
+ipykernel
+nltk
+spacy
+bertopic
+wordcloud
+networkx
