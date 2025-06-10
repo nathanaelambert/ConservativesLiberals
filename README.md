@@ -13,14 +13,12 @@ the raw data we downloaded from kaggle is reddit_posts.csv (we removed 15% of th
 
 Some of the plots are exported as pictures in the folder plots/
 
-Oscar's work about topic modelling is in the notebook Liberal_vs_Conservative_Topic_analys.ipynb, The saved topic model for this part can also be found in topic_model/bertopic_model
-
 Nathanaël's work about subreddit analysis is in the notebook subreddit_analysis.ipynb
 
 André's work about sentiment analysis is in the notebook sentiment_analysis.ipynb
 
 Baptiste's work about common words and shared posts is in the file analysis.py
 
-
+Oscar's work about topic modelling is in the notebook Liberal_vs_Conservative_Topic_analys.ipynb
 
 
